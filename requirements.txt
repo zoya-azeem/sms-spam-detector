@@ -4,3 +4,5 @@ numpy
 pandas
 streamlit
 altair==4.2.2
+imbalanced-learn
+
